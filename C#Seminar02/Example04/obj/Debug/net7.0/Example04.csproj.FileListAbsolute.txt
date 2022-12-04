@@ -3,3 +3,13 @@ C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7
 C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\Example04.AssemblyInfoInputs.cache
 C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\Example04.AssemblyInfo.cs
 C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\Example04.csproj.CoreCompileInputs.cache
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\bin\Debug\net7.0\Example04.exe
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\bin\Debug\net7.0\Example04.deps.json
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\bin\Debug\net7.0\Example04.runtimeconfig.json
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\bin\Debug\net7.0\Example04.dll
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\bin\Debug\net7.0\Example04.pdb
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\Example04.dll
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\refint\Example04.dll
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\Example04.pdb
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\Example04.genruntimeconfig.cache
+C:\Users\schmidt\Desktop\MorningSeminars C#\C#Seminar02\Example04\obj\Debug\net7.0\ref\Example04.dll
