@@ -2,17 +2,17 @@
 
 int MaxNum( int num )
 {
-    des = num / 10;
-    ed = num % 10;
-    maxnummer = des;
+    int des = num / 10;
+    int ed = num % 10;
+    int maxnummer = des;
     if (maxnummer < ed)
     {
         maxnummer = ed;
     }
-   return maxnummer
+   return maxnummer;
 }
 
-number = new Random().Next(10,100);
+int number = new Random().Next(10,100);
 Console.WriteLine(number);
 
 int maxnum = MaxNum(number);
