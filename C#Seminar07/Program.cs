@@ -192,7 +192,7 @@ int SumNum(int[,] array)
     return sum;
 }
 */
-int SumNum(int[,] array)
+/*int SumNum(int[,] array)
 {
     int sum = 0;
     for(int i = 0; i < array.GetLength(1) && i < array.GetLength(0); i++) // i прыгает не только по строкам, но и сразу по столбцам,
@@ -204,3 +204,4 @@ int[,] myArray = CreateRandom2dArray();
 Show2dArray(myArray);
 int sum = SumNum(myArray);
 Console.WriteLine(sum);
+*/
