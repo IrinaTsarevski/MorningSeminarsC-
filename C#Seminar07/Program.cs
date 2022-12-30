@@ -143,7 +143,7 @@ Show2dArray(myArray);
 //находящихся на главной диагонали 
 //(с индексами (0,0); (1;1) и т.д.
 
-int[,] CreateRandom2dArray()
+/*int[,] CreateRandom2dArray()
 {
     Console.WriteLine("Input a numbers of rows: ");
     int rows = Convert.ToInt32(Console.ReadLine());
@@ -176,6 +176,7 @@ void Show2dArray(int[,] array)
     }  
     Console.WriteLine();
 }
+*/
 
 /*
 int SumNum(int[,] array)
